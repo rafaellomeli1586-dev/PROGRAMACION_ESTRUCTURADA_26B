@@ -1,0 +1,15 @@
+{
+  "pregunta": "¿Es una persona real?",
+  "si": {
+    "pregunta": "¿Su herramienta principal de trabajo es un balon de futbol?",
+    "si": {
+      "respuesta": "Mbappe"
+    },
+    "no": {
+      "respuesta": "Albert Einstein"
+    }
+  },
+  "no": {
+    "respuesta": "Harry Potter"
+  }
+}
